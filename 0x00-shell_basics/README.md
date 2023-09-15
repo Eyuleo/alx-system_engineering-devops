@@ -1,4 +1,9 @@
-## 0x00 Shell basics
+<p align="center">
+<img src="https://bashlogo.com/img/logo/png/full_colored_light.png" width=450px ">
+</p>
+<h1 align="center">0x00 Shell basics</h1>
+ 
+
 
 
 ## Tasks
